@@ -1,0 +1,2 @@
+# loliko
+blog
